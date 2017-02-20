@@ -1,0 +1,23 @@
+79 points
+
+Zachary,
+
+- Good job in creating your accounts!
+
+- Good job in setting up your java compiler in your system.
+
+- Good job with your first GitHub submission!
+
+
+However,
+
+- Although the assignment is in the specified folder, the repository in general
+  is not properly organized and is confusing.
+
+- Please organize your GitHub repository immediately.
+
+
+
+Peace,
+
+- Dr. Pablo Rivas
