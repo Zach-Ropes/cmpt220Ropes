@@ -1,5 +1,14 @@
-// header
-// Problem 5.13
+/**
+   * file: Lab3_prob4.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 3, problem 5.13
+   * February 23, 2017
+   * version: 1.1
+   * 
+   * The smallest possible integer n 
+   * where n^3 is less than 12,000.
+   */  
 
 public class Lab3_prob4 {
   public static void main(String[] args) {
