@@ -4,10 +4,10 @@
    * course: CMPT 220
    * assignment: lab 3
    * due date: February 23, 2017
-   * version: 1.3
+   * version: 1.1
    * 
-   * This file contains the declaration of the 
-   * Driver_lab3 abstract data type.
+   * Finds the disatance between x1, y1
+   * and x2, y2 
    */
 
 import java.util.Scanner;
