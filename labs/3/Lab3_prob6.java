@@ -1,6 +1,15 @@
-// header
-// Problem 6.3
-
+/**
+   * file: Lab3_prob6.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 3, problem 6.3
+   * February 23, 2017
+   * version: 1.1
+   * 
+   * Finds whether the reverse of an 
+   * integer is a palindrome.
+   */  
+   
 import java.util.Scanner;
 
 public class Lab3_prob6 {
