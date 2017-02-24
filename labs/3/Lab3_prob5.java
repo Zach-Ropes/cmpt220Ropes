@@ -1,5 +1,14 @@
-// header
-// Problem 6.2
+/**
+   * file: Lab3_prob5.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 3, problem 6.2
+   * February 23, 2017
+   * version: 1.1
+   * 
+   * Calculates the sum of all the digits of
+   * a number.
+   */  
 
 import java.util.Scanner;
 
