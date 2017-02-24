@@ -1,5 +1,14 @@
-// header
-// Problem 5.7
+/**
+   * file: Lab3_prob2.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 3, problem 5.7
+   * February 23, 2017
+   * version: 1.1
+   * 
+   * Finds tuition cost after ten years as well 
+   * as the total four year cost after the tenth year.
+   */  
 
 public class Lab3_prob2 {
   public static void main(String[] args) {
