@@ -1,3 +1,14 @@
+/**
+   * file: Lab2_prob1.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, problem 3.4
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * When run outputs a random month.
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob1 {
