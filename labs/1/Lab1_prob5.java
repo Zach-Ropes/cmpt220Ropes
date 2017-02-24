@@ -6,9 +6,9 @@ public class Lab1_prob5 {
     
     System.out.println("Please enter the following as percentages...");
     System.out.print("midterm exam: ");
-    double midterm = input.nextDouble();
+    
     System.out.print("final exam: ");
-    double finalex = input.nextDouble();
+    double finalex = input.nextDouble();double midterm = input.nextDouble();
     System.out.print("projects: ");
     double projects = input.nextDouble();
     System.out.print("homework and labs: ");
