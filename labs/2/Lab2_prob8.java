@@ -1,3 +1,15 @@
+/**
+   * file: Lab2_prob8.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, problem 4.10
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * Finds the users birthday by answering the 
+   * questions with Y for yes and N for no.
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob8 {
