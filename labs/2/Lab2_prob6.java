@@ -1,3 +1,14 @@
+/**
+   * file: Lab2_prob6.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, problem 4.5
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * Finds the area of a polygon.
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob6 {
