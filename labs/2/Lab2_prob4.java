@@ -1,3 +1,15 @@
+/**
+   * file: Lab2_prob4.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, problem 3.15
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * Checks to see if you won a three digit lottery with 1 match winning $1,000,
+   * matching all digits will win $3,000, and an exact match wins $10,000.
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob4 {
