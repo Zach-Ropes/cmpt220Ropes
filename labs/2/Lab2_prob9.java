@@ -1,3 +1,14 @@
+/**
+   * file: Lab2_prob9.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, problem 4.15
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * Finds corresponding number to the letter tyed in on a normal phone.
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob9 {
