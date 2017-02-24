@@ -1,3 +1,14 @@
+/**
+   * file: Lab2_prob12.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, Leter Grade Problem
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * Calculates final grade as a lettergrade.  
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob12 {
