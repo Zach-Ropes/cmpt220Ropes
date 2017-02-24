@@ -1,3 +1,15 @@
+/**
+   * file: Lab2_prob11.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, problem 4.26
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * Counts how many nichles, dimes, etc. are left in a dollar amount
+   * by using strings for more precise calculation.
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob11 {
