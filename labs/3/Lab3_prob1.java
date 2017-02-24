@@ -1,5 +1,14 @@
-// header
-//Problem 5.1
+/**
+   * file: Lab3_prob1.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 3, problem 5.1
+   * February 23, 2017
+   * version: 1.1
+   * 
+   * Counts amount of positive and negative numbers
+   * and calculates the total and average minus the 0s.
+   */  
 
 import java.util.Scanner;
 
