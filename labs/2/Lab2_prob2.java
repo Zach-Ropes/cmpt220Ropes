@@ -1,3 +1,14 @@
+/**
+   * file: Lab2_prob2.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, problem 3.8
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * Orders the integers entered from least to greatest
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob2 {
