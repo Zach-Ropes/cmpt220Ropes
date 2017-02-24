@@ -1,3 +1,15 @@
+/**
+   * file: Lab2_prob3.java
+   * author: Zachary Ropes
+   * course: CMPT 220
+   * assignment: lab 2, problem 3.11
+   * due date: February 9, 2017
+   * version: 1.1
+   * 
+   * Finds how many days are in the month of 
+   * the year entered also finding leap years.
+   */
+
 import java.util.Scanner;
 
 public class Lab2_prob3 {
