@@ -4,7 +4,7 @@
    * course: CMPT 220
    * assignment: lab 5, problem 8.13
    * April 3, 2017
-   * version: 1.0
+   * version: 1.1
    * 
    * Finds the location of the largest element in a multi dimensional array
    */  
@@ -35,10 +35,11 @@ public class Prob8_13 {
     
     for (int i = 0; i < a.length; i++) {
       for (int j = 0; j < a[i].length; j++) {
-        if (largest < a[i][j])
-          location[0] = i - 1;
-          location[1] = j - 1;
+        if (largest < a[i][j]) {
+          location[0] = i;
+          location[1] = j;
           largest = a[i][j];
+        }
       }
     }
     return location;
