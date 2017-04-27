@@ -4,7 +4,7 @@
    * course: CMPT 220
    * assignment: lab 6, problem 9.13
    * March 20, 2017
-   * version: 1.0
+   * version: 1.1
    * 
    * Finds location of largest point and array and also returns the largest point
    */  
@@ -29,10 +29,11 @@ public class Location {
     
     for (int i = 0; i < a.length; i++) {
       for (int j = 0; j < a[i].length; j++) {
-        if (maxValue < a[i][j])
+        if (maxValue < a[i][j]) {
           maxValue = a[i][j];
-          row = i - 1;
-          column = j - 1;
+          row = i;
+          column = j;
+        }
       }
     }
     return new Location(row, column, maxValue);
