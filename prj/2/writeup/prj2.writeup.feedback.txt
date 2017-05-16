@@ -1,0 +1,7 @@
+38 pts
+
+The project attempts to make a distance calculator.
+The idea has good merit. 
+
+Overall:
+- Decent work below average of an SD1 student. -2pts
